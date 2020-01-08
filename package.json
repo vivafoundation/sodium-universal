@@ -8,12 +8,12 @@
     "sodium-javascript": "~0.5.0"
   },
   "optionalDependencies": {
-    "sodium-native": "github:staltz/sodium-native-nodejs-mobile"
+    "sodium-native": "github:vivafoundation/sodium-native-nodejs-mobile"
   },
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sodium-friends/sodium-universal.git"
+    "url": "git+https://github.com/vivafoundation/sodium-universal.git"
   },
   "keywords": [
     "libsodium",

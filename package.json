@@ -6,7 +6,7 @@
   "browser": "browser.js",
   "dependencies": {
     "sodium-javascript": "~0.5.0",
-    "sodium-native-nodejs-mobile": "github:staltz/sodium-native-nodejs-mobile"
+    "sodium-native": "github:vivafoundation/sodium-native-nodejs-mobile"
   },
   "scripts": {},
   "repository": {
